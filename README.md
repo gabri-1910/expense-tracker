@@ -25,7 +25,7 @@ Small businesses often struggle with "leaky buckets"—minor, untracked expenses
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone [https://github.com/yourusername/expense-tracker.git](https://github.com/gabri-1910/expense-tracker.git)
 cd expense-tracker
 
 ```
